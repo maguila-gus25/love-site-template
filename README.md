@@ -27,14 +27,14 @@ the whole site updates.**
 |---|---|
 | **Hero** — opening section with falling petals | **Timeline** — how it all started |
 | ![Hero section](docs/screenshots/01-hero.png) | ![Timeline section](docs/screenshots/02-timeline.png) |
-| **Gallery** — polaroid grid | **Lightbox** — shared-layout zoom |
-| ![Gallery section](docs/screenshots/03-gallery.png) | ![Gallery lightbox](docs/screenshots/04-lightbox.png) |
-| **Reasons I love you** — card grid | **Days together** — live counter |
-| ![Reasons I love you section](docs/screenshots/05-reasons.png) | ![Days together counter](docs/screenshots/06-counter.png) |
-| **Vinyl** — turntable + Spotify player | **Letter** — animated envelope |
-| ![Vinyl player](docs/screenshots/07-vinyl.png) | ![Animated letter](docs/screenshots/08-letter.png) |
-| **Date voucher** — spin-the-wheel | **Date voucher** — final ticket (PDF) |
-| ![Date voucher wheels](docs/screenshots/09-date-voucher.png) | ![Date voucher ticket](docs/screenshots/10-voucher-ticket.png) |
+| **Gallery** — polaroid grid | **Reasons I love you** — card grid |
+| ![Gallery section](docs/screenshots/03-gallery.png) | ![Reasons I love you section](docs/screenshots/04-reasons.png) |
+| **Days together** — live counter | **Vinyl** — turntable + Spotify player |
+| ![Days together counter](docs/screenshots/05-counter.png) | ![Vinyl player](docs/screenshots/06-vinyl.png) |
+| **Letter** — animated envelope | **Date voucher** — spin-the-wheel |
+| ![Animated letter](docs/screenshots/07-letter.png) | ![Date voucher wheels](docs/screenshots/08-date-voucher.png) |
+| **Date voucher** — final ticket (PDF) | |
+| ![Date voucher ticket](docs/screenshots/09-voucher-ticket.png) | |
 
 > Replace each `docs/screenshots/...` image above with your own screenshots —
 > see the comment in this section's source for the exact filenames.
