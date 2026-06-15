@@ -12,6 +12,35 @@ the whole site updates.**
 
 ---
 
+## Preview
+
+<!--
+  HOW TO ADD YOUR SCREENSHOTS:
+  1. Save each screenshot in the docs/screenshots/ folder.
+  2. Use exactly the filenames referenced below (e.g. 01-hero.png) so the images
+     show up automatically — or rename both the file and the link to match.
+  3. PNG or JPG both work. A width of ~1000px looks good on GitHub.
+  4. Commit and push: git add docs/screenshots && git commit -m "docs: add screenshots" && git push
+-->
+
+| | |
+|---|---|
+| **Hero** — opening section with falling petals | **Timeline** — how it all started |
+| ![Hero section](docs/screenshots/01-hero.png) | ![Timeline section](docs/screenshots/02-timeline.png) |
+| **Gallery** — polaroid grid | **Lightbox** — shared-layout zoom |
+| ![Gallery section](docs/screenshots/03-gallery.png) | ![Gallery lightbox](docs/screenshots/04-lightbox.png) |
+| **Reasons I love you** — card grid | **Days together** — live counter |
+| ![Reasons I love you section](docs/screenshots/05-reasons.png) | ![Days together counter](docs/screenshots/06-counter.png) |
+| **Vinyl** — turntable + Spotify player | **Letter** — animated envelope |
+| ![Vinyl player](docs/screenshots/07-vinyl.png) | ![Animated letter](docs/screenshots/08-letter.png) |
+| **Date voucher** — spin-the-wheel | **Date voucher** — final ticket (PDF) |
+| ![Date voucher wheels](docs/screenshots/09-date-voucher.png) | ![Date voucher ticket](docs/screenshots/10-voucher-ticket.png) |
+
+> Replace each `docs/screenshots/...` image above with your own screenshots —
+> see the comment in this section's source for the exact filenames.
+
+---
+
 ## What it demonstrates
 
 - **Next.js 16 (App Router)** with **React 19** and **TypeScript** end to end.
