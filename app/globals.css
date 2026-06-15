@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #FBF4EC;
+  --surface: #FFFFFF;
+  --ink: #3B2F2A;
+  --ink-soft: #7A6A62;
+  --rose: #C9605A;
+  --blush: #F6D7D2;
+  --gold: #D9A441;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-rose: var(--rose);
+  --color-blush: var(--blush);
+  --color-gold: var(--gold);
+  --font-display: var(--font-fraunces);
+  --font-script: var(--font-caveat);
+  --font-body: var(--font-nunito);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-nunito), sans-serif;
+}
