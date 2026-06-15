@@ -5,7 +5,7 @@ keepsake you can personalize and give to someone special. Built as a portfolio
 piece and shipped as a reusable, content-driven template — **edit one file and
 the whole site updates.**
 
-🔗 **Live demo:** _coming soon_ <!-- replace with your Vercel URL -->
+🔗 **Live demo:** **[love-site-template.vercel.app](https://love-site-template.vercel.app)**
 
 > The demo uses placeholder content (`Partner One & Partner Two`). Drop in your
 > own names, dates, photos, playlist and letter to make it yours.
