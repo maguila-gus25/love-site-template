@@ -10,9 +10,9 @@
 // ----------------------------- Types -----------------------------------------
 
 export interface Couple {
-  /** Your name */
+  /** Хүслэн */
   you: string;
-  /** Their name */
+  /** Номин-Эрдэнэ */
   them: string;
 }
 
